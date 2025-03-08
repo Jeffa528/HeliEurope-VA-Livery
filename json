@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "HeliEurope",
+    "color": "dcb000",
+    "bgcolor": "003399",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
